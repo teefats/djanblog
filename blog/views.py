@@ -2,17 +2,17 @@
 from django.shortcuts import render
 from .models import Post
 
-posts = [{
-    'author' : 'Rudolf',
-    'title' : 'Hess',
-    'content' : 'First post',
-    'date_posted' : 'April 3, 2020'
-},{
-    'author' : 'Paul',
-    'title' : 'Kesselring',
-    'content' : 'Second post',
-    'date_posted': 'June 1 , 2020'
-}]
+# posts = [{
+#     'author' : 'Rudolf',
+#     'title' : 'Hess',
+#     'content' : 'First post',
+#     'date_posted' : 'April 3, 2020'
+# },{
+#     'author' : 'Paul',
+#     'title' : 'Kesselring',
+#     'content' : 'Second post',
+#     'date_posted': 'June 1 , 2020'
+# }]
 
 # Create your views here.
 def home(request):
