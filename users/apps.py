@@ -1,4 +1,5 @@
 from django.apps import AppConfig
+# import users
 
 
 class UsersConfig(AppConfig):
