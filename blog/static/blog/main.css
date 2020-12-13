@@ -5,7 +5,7 @@ body {
   }
   
   h1, h2, h3, h4, h5, h6 {
-    color: #444444;
+    color: #bfd3cb;
   }
   
   ul {
@@ -38,11 +38,13 @@ body {
   
   .article-title {
     color: #444444;
+   
   }
   
   a.article-title:hover {
     color: #428bca;
     text-decoration: none;
+    
   }
   
   .article-content {
@@ -82,3 +84,4 @@ body {
   .account-heading {
     font-size: 2.5rem;
   }
+
