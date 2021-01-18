@@ -143,4 +143,3 @@ EMAIL_PORT = 587
 EMAIL_USE_TLS = True
 EMAIL_HOST_USER ='gloti3483@gmail.com'
 EMAIL_HOST_PASSWORD = 'wxkrylfqsvwtbdqj'
-EMAIL_USE_TLS = True
